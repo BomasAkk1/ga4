@@ -44,3 +44,7 @@ https://YOUR-PROJECT.vercel.app/?utm_source=telegram&utm_medium=social&utm_campa
 
 Откройте ссылку в новой приватной сессии. Не принимайте новую вкладку за новую сессию GA4.
 
+
+
+
+https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/06-ga4-events/index.html#239
