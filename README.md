@@ -46,5 +46,4 @@ https://YOUR-PROJECT.vercel.app/?utm_source=telegram&utm_medium=social&utm_campa
 
 
 
-
-https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/lessons/06-ga4-events/index.html#239
+https://algorthimization-course-vvodnoe.vercel.app/op03-informacionnye-tehnologii/index.html
